@@ -12,7 +12,6 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
 
-CRIE O COMMITE DA SEÇÃO TECH
  
 ## 🌱 Tecnologias que estou aprendendo:
  
